@@ -22,26 +22,22 @@ nav{
     gap:65px
 }
 
-.element1,
-.element2 {
+.element {
     border-top: 1px solid transparent ;
     padding-top: 10px;
     padding-right: 20px;
 }
 
-.element1 a,
-.element2 a {
+.element a {
     text-decoration: none;
     color:black;
 }
 
-.element1:hover,
-.element2:hover{
+.element:hover{
     border-top: 1px solid #0065FC ;
 }
 
-.element1 a:hover,
-.element2 a:hover{
+.element a:hover{
     color : #0065FC;
 }
 
@@ -136,10 +132,7 @@ h1 {
     display: flex;
 }
 
-.best,
-.romantic,
-.family,
-.economic {
+.btn-filter {
     margin-left: 10px;
     margin-right: 10px;
     border : 2px solid #D9D9D9;
@@ -157,10 +150,8 @@ h1 {
     padding-right: 8px;
 }
 
-.best:hover,
-.romantic:hover,
-.family:hover,
-.economic:hover {
+
+.btn-filter:hover {
     background-color: #DEEBFF;
 }
 
