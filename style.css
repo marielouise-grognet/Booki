@@ -475,21 +475,20 @@ h2 {
     }
 
  
-    .element1 {
+    .element {
     width:50%;
     padding-left: 50px ;
     padding-bottom: 15px;
     border-bottom: 2px solid #D9D9D9 ; ;
 }
-    .element2 {
+    .element {
     width: 50%;
     padding-left: 50px;
     padding-bottom: 15px;
     border-bottom: 2px solid #D9D9D9 ; ;
     }
 
-    .element1:hover,
-    .element2:hover{    
+    .element:hover{    
         border-top: none ;
         border-bottom: 2px solid #0065FC ;
         color :#0065FC;
@@ -550,10 +549,8 @@ h2 {
         flex-wrap: wrap;
         justify-content: center;
     }
-    .economic,
-    .family,
-    .romantic,
-    .best {
+ 
+    .btn-filter {
         font-size: 13px;
         width:110px;
         margin-bottom: 20px;
