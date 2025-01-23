@@ -481,12 +481,6 @@ h2 {
     padding-bottom: 15px;
     border-bottom: 2px solid #D9D9D9 ; ;
 }
-    .element {
-    width: 50%;
-    padding-left: 50px;
-    padding-bottom: 15px;
-    border-bottom: 2px solid #D9D9D9 ; ;
-    }
 
     .element:hover{    
         border-top: none ;
