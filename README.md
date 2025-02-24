@@ -1,5 +1,6 @@
 # **Projet 2 - Booki**  
 Page d'accueil d'une agence de voyage développée en utilisant HTML et CSS.  
+[Lien vers la page](https://marielouise-grognet.github.io/Booki/)
 
 ## **Description**  
 Projet réalisé dans le cadre de la formation Développeur d'applications JavaScript React chez Openclassrooms.  
